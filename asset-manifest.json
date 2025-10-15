@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ef542fc.css",
+    "main.js": "/static/js/main.995b61c6.js",
+    "static/js/787.5241a754.chunk.js": "/static/js/787.5241a754.chunk.js",
+    "static/media/A Silent Scandal 600.png": "/static/media/A Silent Scandal 600.0578a438a64e9ad84e9b.png",
+    "static/media/Silent Scandal Attempt_2to1.png": "/static/media/Silent Scandal Attempt_2to1.553e0d742bb189e05fe7.png",
+    "static/media/bingeqr.png": "/static/media/bingeqr.55c0478243f9f9e8e441.png",
+    "static/media/a.pdf": "/static/media/a.b6f4b5500c4e04589d0e.pdf",
+    "static/media/HTKYL Accolades_600_Alt2.jpg": "/static/media/HTKYL Accolades_600_Alt2.953a2dcc993f9a48fa84.jpg",
+    "static/media/Writing_600.jpg": "/static/media/Writing_600.4e9e64916a73a4e223db.jpg",
+    "static/media/user.jpg": "/static/media/user.13f34b736ae7cc692fcb.jpg",
+    "index.html": "/index.html",
+    "main.6ef542fc.css.map": "/static/css/main.6ef542fc.css.map",
+    "main.995b61c6.js.map": "/static/js/main.995b61c6.js.map",
+    "787.5241a754.chunk.js.map": "/static/js/787.5241a754.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef542fc.css",
+    "static/js/main.995b61c6.js"
+  ]
+}
